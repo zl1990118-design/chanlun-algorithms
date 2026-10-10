@@ -8,7 +8,7 @@
 |---|---|---|---|---|
 | [czsc](https://github.com/zl1990118-design/czsc) | [waditu/czsc](https://github.com/waditu/czsc) | Rust | 缠论算法工程化标杆：分型/笔/中枢 + 220+ 信号函数，形式化验证首选 | MIT |
 | [chan.py](https://github.com/zl1990118-design/chan.py) | [Vespa314/chan.py](https://github.com/Vespa314/chan.py) | Python | 开放式缠论框架：形态学/动力学买卖点、多级别K线联立、区间套策略、可视化 | MIT |
-| [chanlun-pro](https://github.com/zl1990118-design/chanlun-pro) | [yijixiuxin/chanlun-pro](https://github.com/yijixiuxin/chanlun-pro) | Python | 缠论量化工具：笔/段/中枢/买卖点，多市场数据接入 | MIT |
+| [chanlun-pro](https://github.com/zl1990118-design/chanlun-pro) | [yijixiuxin/chanlun-pro](https://github.com/yijixiuxin/chanlun-pro) | Python | 缠论量化工具：笔/段/中枢/买卖点，多市场数据接入；**注意：核心引擎 src/chanlun/core 为加密专有组件，需授权运行** | Apache-2.0（core 除外） |
 
 ## 快速上手
 
